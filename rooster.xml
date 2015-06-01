@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rooster name="klas" xml:lang="en">
+  <week name="37-12">
+     <maandag>
+	   <1></1>
+	   <2>MEN, 16, Dm</2>
+	   <3>MEN, 16, Dm</3>
+	   <4></4>
+	   <5>3D</5>
+	   <6></6>
+	   <7></7>
+	   <8></8>
+	   <9></9>
+	   <10></10>
+	   <11></11>
+	   <12></12>
+	   <13></13>
+	   <14></14>
+	   <15></15>
+	   <16></16>
+	 </maandag>
+  </week>
+ 
+</rooster>
+
+<rooster name="docent" xml:lang="en">
+ 
+</rooster>
+
+<rooster name="lokaal" xml:lang="en">
+ 
+</rooster>

@@ -8,14 +8,6 @@ $soort = $_GET['soort'];
 $week = $_GET['week'];
 $jaar = $_GET['jaar'];
 
-//set the form post things in an array
-  //some important data that may not be changed
-	$post_data['ACT'] = '9';
-	$post_data['RET'] = '/lol';
-	$post_data['site_id'] = '1';
-  //This data maybe changed to your belongings
-    $post_data['username'] = '2001';
-	$post_data['password'] = 'q688wy';
 //traverse array and prepare data for posting (key1=value1)
 foreach ( $post_data as $key => $value) {
     $post_items[] = $key . '=' . $value;
